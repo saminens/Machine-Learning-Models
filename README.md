@@ -19,4 +19,4 @@ PCA - Facial features based recognition/Computer vision
 
 Regularized Logistic Regression - Nelder Mead Method
 
-SVM - Span detection
+SVM - Spam detection
